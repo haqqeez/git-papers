@@ -6,6 +6,10 @@ This is a very important problem that I have been working on!
 
 OMG NEW REULTS~~~
 
+##Figures
+
+So beautiful. Reall cool figures.
+
 ##References
 
 Zeeshan et al., (2020)
