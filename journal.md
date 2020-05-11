@@ -1,4 +1,4 @@
-this is my first journal
+this is my first journal written by myself and John
 
 ##Introuction
 
